@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou estudante de Ciências da Computação e profissional da área de tecnologia, apaixonado por inovação, programação e aprendizado contínuo. Atualmente estou aprofundando meus conhecimentos em Python e desenvolvendo habilidades que me permitam criar soluções eficientes e contribuir para projetos tecnológicos de impacto.
+Sou estudante de Ciências da Computação, apaixonado por inovação, programação e aprendizado contínuo. Atualmente estou aprofundando meus conhecimentos em Python e desenvolvendo habilidades que me permitam criar soluções eficientes e contribuir para projetos tecnológicos de impacto.
 
 Tenho interesse em desenvolvimento de software, automação, análise de dados e novas tecnologias. Estou sempre em busca de novos desafios, oportunidades de aprendizado e experiências que contribuam para meu crescimento profissional e pessoal.
 
