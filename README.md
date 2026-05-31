@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Arthur Lucena
+# 👋 Olá, eu sou Arthur José
 
 ## Sobre mim
 
